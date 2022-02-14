@@ -32,6 +32,7 @@
 - We first push the root node into the stack.
 - Then we start a while loop with the condition stack.length !== 0.
 - Inside the loop, we pop the last element from the stack and push it into the result array.
+- After that, we check if the popped element has a left child and push it into the stack.
 
 
 */
