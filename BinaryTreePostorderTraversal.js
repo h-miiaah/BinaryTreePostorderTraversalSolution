@@ -34,6 +34,6 @@
 - Inside the loop, we pop the last element from the stack and push it into the result array.
 - After that, we check if the popped element has a left child and push it into the stack.
 - We also check if the popped element has a right child and push it into the stack.
-
+- Finally, we return the result array.
 
 */
