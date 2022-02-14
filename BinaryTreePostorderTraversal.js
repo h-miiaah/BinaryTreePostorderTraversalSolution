@@ -11,5 +11,5 @@
  * @return {number[]}
  */
  var postorderTraversal = function(root) {
-    
+    let res = [];
 };
