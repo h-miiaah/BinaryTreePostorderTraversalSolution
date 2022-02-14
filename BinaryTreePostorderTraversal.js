@@ -30,6 +30,7 @@
 /*
 
 - We first push the root node into the stack.
+- Then we start a while loop with the condition stack.length !== 0.
 
 
 */
