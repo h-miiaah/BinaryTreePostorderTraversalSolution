@@ -20,6 +20,6 @@
         let cur = stack.pop();
         res.push(cur.val); 
         if (cur.left) stack.push(cur.left);
-        
+        if (cur.right) stack.push(cur.right);
     }
 };
