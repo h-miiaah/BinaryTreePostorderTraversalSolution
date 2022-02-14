@@ -22,4 +22,5 @@
         if (cur.left) stack.push(cur.left);
         if (cur.right) stack.push(cur.right);
     }
+    return res.reverse();
 };
