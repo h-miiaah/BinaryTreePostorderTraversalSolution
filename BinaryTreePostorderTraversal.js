@@ -16,4 +16,7 @@
     let stack = [];
 
     stack.push(root);
+    while (stack.length !== 0) { 
+        
+    }
 };
