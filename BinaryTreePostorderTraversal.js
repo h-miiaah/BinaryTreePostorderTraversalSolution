@@ -18,6 +18,7 @@
     stack.push(root);
     while (stack.length !== 0) { 
         let cur = stack.pop();
+        res.push(cur.val); 
         
     }
 };
