@@ -12,4 +12,5 @@
  */
  var postorderTraversal = function(root) {
     let res = [];
+    if (root === null) return res;
 };
