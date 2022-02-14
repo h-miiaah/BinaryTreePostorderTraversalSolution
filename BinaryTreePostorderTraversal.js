@@ -14,4 +14,6 @@
     let res = [];
     if (root === null) return res;
     let stack = [];
+
+    stack.push(root);
 };
